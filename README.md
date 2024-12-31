@@ -136,17 +136,3 @@ alura-flips/
 Desarrollado por [Juan Sebastián Sandoval Vargas](https://github.com/SebSandoval).
 
 ---
-
-> **Nota**: Si necesitas incluir imágenes del diseño o capturas de pantalla de la aplicación, agrégalas en la carpeta `public/images` y actualiza este README con el siguiente formato:
->
-> ```markdown
-> ### Capturas de Pantalla
->
-> #### Página Principal
->
-> ![Página Principal](public/screen1.png)
->
-> #### Formulario de Registro
->
-> ![Formulario de Registro](public/screen2.png)
-> ```
