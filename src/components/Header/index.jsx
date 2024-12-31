@@ -6,7 +6,7 @@ const Header = () => {
             <div className="container mx-auto flex items-center justify-between " >
                 {/* Logo */}
                 <Link to="/">
-                <img src="/src/assets/LogoAlura.png" alt="Logo Header" className="w-full max-w-20 md:max-w-52" />
+                <img src="/src/assets/logoalura.png" alt="Logo Header" className="w-full max-w-20 md:max-w-52" />
                 </Link>
 
 
